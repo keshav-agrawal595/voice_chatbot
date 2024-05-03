@@ -1,7 +1,0 @@
-streamlit
-SpeechRecognition
-requests
-os
-google.generativeai
-pyttsx3
-pyaudio
