@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+requests
+google-generativeai
+pyttsx3
+pyaudio
